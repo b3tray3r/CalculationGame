@@ -1,5 +1,7 @@
 # CalculationGame
 
-Simple game to train your math skills.
-Choose from three difficulty levels and start training.
+Приложение для развития математических навыков
 
+Используемые технологии: ViewModel, Jetpack Navigation, Clean Architecture
+
+Приложение было написано в процессе обучения по курсу
